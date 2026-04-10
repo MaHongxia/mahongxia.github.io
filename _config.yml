@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Ma Hongxia"
 title_separator          : "-"
 name                     : &name "Ma Hongxia"
 description              : &description "Ph.D. Candidate in Economics, National University of Singapore (NUS)."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository: "MaHongxia/mahongxia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hongxia Ma"
+  name             : "Ma Hongxia"
   pronouns         : # example: "she/her"  
   bio              : "Econ Ph.D. (NUS)"
   location         : "Singapore"
