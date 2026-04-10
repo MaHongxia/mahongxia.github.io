@@ -91,7 +91,7 @@ redirect_from:
 </p>
 
 <p>
-I am a PhD candidate from the Department of Economics, National University of Singapore. Prior to that, I received a Bachelor’s degree in Statistics with first-class honours from the National University of Singapore in 2020.
+I am a PhD candidate in the Department of Economics at the National University of Singapore, with an expected graduation date of 2026. Prior to that, I received a Bachelor’s degree in Statistics with first-class honours from the National University of Singapore in 2020.
 </p>
 
 Here is my cv.
