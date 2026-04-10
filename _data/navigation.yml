@@ -11,6 +11,6 @@ main:
   - title: "Home"
     url: /
   - title: "Working Papers"
-    url: /working-papers/
+    url: /publications/
   - title: "Others"
-    url: /others/
+    url: /cv/
