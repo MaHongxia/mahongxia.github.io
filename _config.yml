@@ -12,6 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ma Hongxia"
 title_separator          : "-"
 name                     :  ""
+masthead_title: ""
 description              : &description "Ph.D. Candidate in Economics, National University of Singapore (NUS)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url: "https://mahongxia.github.io"
 baseurl: ""
