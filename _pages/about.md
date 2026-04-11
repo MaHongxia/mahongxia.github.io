@@ -111,10 +111,6 @@ I am a PhD candidate in the Department of Economics at the National University o
       We study how consumers beliefs evolve over time shapes the dynamic competition between two vertically differentiated platforms in the presence of network effects, using the notion of partial focality. We introduce a tractable model of focality updating process with exponentially weighted updating, governed by the persistence of the history. We capture asymmetries in platforms’ focality through both the initial focality level and the persistence of the focality advantage. We show how focality dynamics shape market efficiency, consumer surplus, and the comparative statics with respect to platforms’ discount factors.
 Finally, when platforms can make initial-stage marketing investments that shift either the initial focality level or the persistence parameters, we show that the high-quality platform always has a stronger incentive to invest than the low-quality platform.
       </p>
-
-      <p class="conference-info">
-      Conferences and talks: ABFER (scheduled, 2026), MFA (2026), 38th Australasian Finance and Banking Conference (2025)
-      </p>
     </div>
   </details>
 </div>
@@ -135,7 +131,7 @@ When focality is locked in to the first entrant, network effects indeed exacerba
       </p>
       
       <p class="conference-info">
-      Conferences and talks: APIOC(2024)
+      Conferences and talks: APIOC(2024), NUS Theory Lunch, NTU Brownbag
       </p>
     </div>
   </details>
