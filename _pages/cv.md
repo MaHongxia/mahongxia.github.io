@@ -13,7 +13,7 @@ Teaching
 ======
 * EC3102 Macroeconomic Analysis II, Teaching Assistant, Semester 2, AY2021/22 to Semester 2, AY2023/24 (5 semesters); teaching evaluation: 4.2/5
 
-Teaching Feedback
+Selected Teaching Feedback
 ======
 * She is very dedicated and strongly reinforces our concepts every lesson. It was very enjoyable attending her tutorial as she is very clear and concise
 
