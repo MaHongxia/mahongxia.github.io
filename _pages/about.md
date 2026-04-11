@@ -102,7 +102,7 @@ I am a PhD candidate in the Department of Economics at the National University o
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Focality Dynamics and Platform Competition</a>
-    <span class="paper-coauthors">with  <em>draft available upon request</em></span>
+     <em>draft available upon request</em></span>
   </div>
 
   <details class="paper-details">
@@ -120,7 +120,7 @@ Finally, when platforms can make initial-stage marketing investments that shift 
   <div class="row">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer" class="paper-title">
       How Network Effects Shape Firm Entry Strategies
-    </a>
+    </a> <em>draft available upon request</em></span>
   </div>
 
   <details class="paper-details">
@@ -132,7 +132,7 @@ When focality is locked in to the first entrant, network effects indeed exacerba
       </p>
       
       <p class="conference-info">
-      Conferences and talks: APIOC(2024), NUS Theory Lunch, NTU Brownbag
+      Conferences and talks: APIOC(2024), NUS Theory Reading Group, NTU Brownbag
       </p>
     </div>
   </details>
