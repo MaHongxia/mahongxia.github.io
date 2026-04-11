@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Others"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* EC3102 Macroeconomic Analysis II, Teaching Assistant, Semester 2, AY2021/22 to Semester 2, AY2023/24 (5 semesters); teaching evaluation: 4.2/5
+
+Teaching Feedback
 ======
-* Currently signed in to 43 different slack teams
+* She is very dedicated and strongly reinforces our concepts every lesson. It was very enjoyable attending her tutorial as she is very clear and concise
+
+* very patient and kind, always happy to help and answer any questions that we might have
+
+* able to teach us difficult concepts and answer our questions
+
+  
+Awards
+======
+* NUS Research Scholarship
+* Dean’s List from Department of Statistics (NUS) for Undergraduates
+* NUS Science & Technology Undergraduate Scholarship
+
+Skills
+======
+* R, Python, MATLAB
+
+PERSONAL
+======
+* Born in 1998
+  
+
+
