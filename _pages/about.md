@@ -87,7 +87,7 @@ redirect_from:
 
 <p>Welcome to my website!</p>
 
-<p>I am seeking research opportunities in Singapore at all levels. </p>
+<p>I am seeking research opportunities in Singapore. </p>
 
 <p>My research focuses on platform economics, industrial organization, and applied microeconomic theory in general. 
 </p>
