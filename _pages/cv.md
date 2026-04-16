@@ -20,7 +20,7 @@ redirect_from:
 ## Awards
 - **NUS Research Scholarship**
 - **Dean’s List from Department of Statistics (NUS) for Undergraduates**
-- **NUS Science & Technology Undergraduate Scholarship**
+- **NUS Science & Technology Undergraduate Scholarship (SM2 Scholarship)**
 
 ## Skills
 - R, Python, MATLAB
