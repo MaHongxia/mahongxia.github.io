@@ -87,14 +87,18 @@ redirect_from:
 
 <p>Welcome to my website!</p>
 
-<p>I am looking for research-related positions in Singapore at all levels. </p>
-
-<p>My research focuses on platform economics, industrial organization, and applied microeconomic theory in general. 
+<p>
+I am a PhD candidate in Economics at the National University of Singapore and am on the 2026–2027 academic job market. I expect to graduate in August 2026.
 </p>
 
 <p>
-I am a PhD candidate in the Department of Economics at the National University of Singapore, with an expected graduation date of 2026. Prior to that, I received a Bachelor’s degree in Statistics with first-class honours from the National University of Singapore in 2020.
+My research interests are in platform economics, industrial organization, and applied microeconomic theory.
 </p>
+
+<p>
+I received a Bachelor’s degree in Statistics with First Class Honours from the National University of Singapore in 2020.
+</p>
+
 <style>
 .paper-details summary {
   background: #f0f0f0;
@@ -129,8 +133,13 @@ I am a PhD candidate in the Department of Economics at the National University o
     <summary>Abstract</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
-      We study how the evolution of consumer beliefs over time shapes dynamic competition between two vertically differentiated platforms in the presence of network effects, using the notion of partial focality. We develop a tractable model of focality updating based on past market outcomes, with exponential weighting governed by a persistence parameter. We capture asymmetries in platforms’ focality through both the initial focality level and the persistence of the focality. We show how focality dynamics affect market efficiency, consumer surplus, and comparative statics with respect to platforms’ discount factors. Finally, when platforms can make initial-stage marketing investments that shift either the initial focality level or the persistence of focality, we show that the high-quality platform always has a stronger incentive to invest than the low-quality platform.
-      </p>
+      We study how the evolution of consumer beliefs over time shapes dynamic competition between two vertically differentiated platforms in the presence of network effects, using the notion of partial focality. We develop a tractable model in which focality evolves with past market outcomes according to an exponentially weighted moving-average rule. Asymmetries in platforms' focality dynamics are captured by differences in their initial focality levels and in the persistence of their focality advantages.
+ We show that when focality adjusts more slowly to recent market outcomes, both market efficiency and consumer surplus decrease. Greater platform patience improves market efficiency only if the quality gap between the platforms is sufficiently large.
+Finally, we allow platforms to make initial marketing investments that affect either initial focality or the persistence of focality dynamics. Under either channel, the high-quality platform has a stronger incentive for marketing than the low-quality platform.
+         </p>
+        <p class="conference-info">
+  <strong>Conferences and talks:</strong> Platform Strategy Research Symposium, Boston University, 2026; Asian Game Theory Conference, 2026 (forthcoming); INFORMS Job Market Showcase, 2026 (forthcoming).
+</p>
     </div>
   </details>
 </div>
@@ -145,12 +154,13 @@ I am a PhD candidate in the Department of Economics at the National University o
     <summary>Abstract</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
-      There is a common presumption that network effects intensify firms' race to enter first in order to capture an incumbency advantage. We study this idea in an infinite-horizon model in which two vertically differentiated firms choose whether and when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality dynamics. When focality is locked in to favor the first entrant, network effects indeed amplify inefficiently early entry. By contrast, when focality adapts quickly to recent outcomes, network effects can mitigate premature entry for sufficiently patient firms by weakening the low-quality firm's preemption incentive relative to that of the high-quality firm. Surprisingly, this effect can tilt the entry race toward the high-quality firm even more strongly than a focality structure that always favors it, provided that market growth is sufficiently rapid and firms are sufficiently patient.
+      There is a common presumption that network effects intensify firms' race to enter first in order to capture an incumbency advantage. We explore this possibility in an infinite-horizon model in which two vertically differentiated firms decide whether and when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality dynamics. When focality is locked in to the first entrant, network effects indeed amplify inefficient early entry. However, when focality adapts quickly to recent market outcomes, network effects can instead mitigate premature entry for sufficiently patient firms by weakening the low-quality firm's preemption incentive. This effect can be surprisingly strong in a growing market. This effect can be surprisingly pronounced in a growing market. When firms are sufficiently patient and network effects are sufficiently strong, adaptive focality can tilt the entry race in favor of the high-quality firm even more than a focality structure that always favors it.
+
       </p>
       
-      <p class="conference-info">
-      Conferences and talks: Asia-Pacific Industrial Organization Conference (APIOC) 2024, NUS Microeconomic Theory Reading Group,  NTU Brownbag Seminar
-      </p>
+     <p class="conference-info">
+  <strong>Conferences and talks:</strong> Asia-Pacific Industrial Organization Conference (APIOC), 2024; NUS Microeconomic Theory Reading Group; NTU Brown Bag Seminar.
+</p>
     </div>
   </details>
 </div>
