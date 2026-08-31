@@ -159,15 +159,7 @@ I received a Bachelor’s degree in Statistics with First Class Honours from the
     <div class="paper-details-content">
       <p>
         <strong>Abstract:</strong><br>
-        There is a common presumption that network effects intensify firms’ race to enter first as they seek to secure an incumbency
-advantage. We explore this possibility in an infinite-horizon model in which two vertically differentiated firms decide whether and
-when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing
-subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality
-dynamics. When focality is locked into the first entrant, network effects indeed amplify inefficient early entry. However, when
-focality adapts quickly to recent market outcomes, network effects can instead mitigate premature entry for sufficiently patient firms
-by weakening the low-quality firm's preemption incentive. This effect can be surprisingly pronounced in a growing market. When
-firms are sufficiently patient and network effects are sufficiently strong, adaptive focality can tilt the entry race in favor of the high-
-quality firm even more than a focality structure that always favors it.
+        There is a common presumption that network effects intensify firms' race to enter first as they seek to secure an incumbency advantage. We explore this possibility in an infinite-horizon model in which two vertically differentiated firms decide whether and when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality dynamics. When focality is locked into the first entrant, network effects indeed amplify inefficient early entry. However, when focality adapts quickly to recent market outcomes, network effects can instead mitigate premature entry for sufficiently patient firms by weakening the low-quality firm's preemption incentive. This effect can be surprisingly pronounced in a growing market. With sufficiently patient firms and strong enough network effects, adaptive focality can tilt the entry race in favor of the high-quality firm even more than a focality structure that always favors it.
       </p>
 
       <p class="conference-info">
