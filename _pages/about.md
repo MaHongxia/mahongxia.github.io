@@ -144,19 +144,35 @@ I received a Bachelor’s degree in Statistics with First Class Honours from the
 
 <div class="paper-item">
   <div class="row">
-    <span class="paper-title">How Network Effects Shape Firm Entry Strategies</span>
-    <span class="paper-note"><em>Draft available upon request</em></span>
+    <span class="paper-title">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7298740"
+         target="_blank"
+         rel="noopener noreferrer">
+        How Network Effects Shape Firm Entry Strategies
+      </a>
+    </span>
   </div>
 
   <details class="paper-details">
     <summary>Abstract</summary>
+
     <div class="paper-details-content">
-      <p><strong>Abstract:</strong><br>
-      There is a common presumption that network effects intensify firms’ race to enter first as they seek to secure an incumbency advantage. We explore this possibility in an infinite-horizon model in which two vertically differentiated firms decide whether and when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality dynamics. When focality is locked into the first entrant, network effects indeed amplify inefficient early entry. However, when focality adapts quickly to recent market outcomes, network effects can instead mitigate premature entry for sufficiently patient firms by weakening the low-quality firm's preemption incentive. This effect can be surprisingly pronounced in a growing market. When firms are sufficiently patient and network effects are sufficiently strong, adaptive focality can tilt the entry race in favor of the high-quality firm even more than a focality structure that always favors it.
+      <p>
+        <strong>Abstract:</strong><br>
+        There is a common presumption that network effects intensify firms’ race to enter first as they seek to secure an incumbency
+advantage. We explore this possibility in an infinite-horizon model in which two vertically differentiated firms decide whether and
+when to enter a growing market. Incumbency advantage arises endogenously from consumer beliefs in the post-entry pricing
+subgame: whenever multiple equilibria exist, consumers coordinate on a focal firm. We compare alternative specifications of focality
+dynamics. When focality is locked into the first entrant, network effects indeed amplify inefficient early entry. However, when
+focality adapts quickly to recent market outcomes, network effects can instead mitigate premature entry for sufficiently patient firms
+by weakening the low-quality firm's preemption incentive. This effect can be surprisingly pronounced in a growing market. When
+firms are sufficiently patient and network effects are sufficiently strong, adaptive focality can tilt the entry race in favor of the high-
+quality firm even more than a focality structure that always favors it.
       </p>
-     <p class="conference-info">
-  <strong>Conferences and talks:</strong> Asia-Pacific Industrial Organization Conference (APIOC), 2024; NUS Microeconomic Theory Reading Group; NTU Brown Bag Seminar.
-</p>
+
+      <p class="conference-info">
+        <strong>Conferences and talks:</strong> Asia-Pacific Industrial Organization Conference (APIOC), 2024; NUS Microeconomic Theory Reading Group; NTU Brown Bag Seminar.
+      </p>
     </div>
   </details>
 </div>
